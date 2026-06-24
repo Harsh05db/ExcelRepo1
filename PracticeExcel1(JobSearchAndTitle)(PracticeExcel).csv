@@ -17,3 +17,10 @@ Big Data Engineer,5,115000,9000,5,124000,7.8%,124000,TRUE,TRUE,1,TRUE
 ,Experience (<=),5,,,,,,,,,
 ,Total Salary (>=),90000,,,,,,,,,
 ,,,,,,,,,,,
+=============================================================
+#Some formulas that  are used#
+#================================
+Meets Experience <=$C$17<=B2>
+Meets Salary     <=$C2>=C$18>
+Meets Both      <=K2=1>
+<=$C4>=C$18>
