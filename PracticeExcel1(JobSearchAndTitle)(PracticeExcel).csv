@@ -1,0 +1,19 @@
+Job Title,Experience (Years),Annual Salary ($USD),Bonus Max ($USD),Experience=,Total Salary ,BonusRate(/),ConfirmTotal,MeetsExperience,MeetsSalary,MeetsBoth(0and1),MeetsBoth=1
+Data Scientist,5,120000,10000,5,130000,8.3%,130000,TRUE,TRUE,1,TRUE
+Machine Learning Engineer,4,135000,12000,4,147000,8.9%,147000,FALSE,TRUE,0,FALSE
+Data Analyst,2,75000,5000,2,80000,6.7%,80000,FALSE,FALSE,0,FALSE
+Business Intelligence Dev,6,110000,8000,6,118000,7.3%,118000,TRUE,TRUE,1,TRUE
+Data Engineer,3,125000,11000,3,136000,8.8%,136000,FALSE,TRUE,0,FALSE
+Statistician,7,90000,7000,7,97000,7.8%,97000,TRUE,TRUE,1,TRUE
+Data Architect,10,150000,15000,10,165000,10.0%,165000,TRUE,TRUE,1,TRUE
+Research Scientist,8,130000,13000,8,143000,10.0%,143000,TRUE,TRUE,1,TRUE
+AI Specialist,3,140000,14000,3,154000,10.0%,154000,FALSE,TRUE,0,FALSE
+Big Data Engineer,5,115000,9000,5,124000,7.8%,124000,TRUE,TRUE,1,TRUE
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Column1,Column2,,,,,,,,,
+,Job Goals,Value,,,,,,,,,
+,Experience (<=),5,,,,,,,,,
+,Total Salary (>=),90000,,,,,,,,,
+,,,,,,,,,,,
